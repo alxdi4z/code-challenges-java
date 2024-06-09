@@ -1,3 +1,5 @@
+package org.challenges;
+
 import java.util.Arrays;
 
 public class Minesweeper {

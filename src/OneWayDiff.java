@@ -1,3 +1,5 @@
+package org.challenges;
+
 public class OneWayDiff {
 
     public static void main(String[] args) {
